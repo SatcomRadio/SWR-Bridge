@@ -9,6 +9,11 @@ You can connect it to an arduino and measure the FWD and reflected power.
 
 <img src="./img/prototype.jpg" alt="prototype" width="600"/>
 
+The potentiometers allow to calibrate the maximum power seen at the FWD and REF   
+ports so you can get more resolution at higher or lower RF power levels.
+
+*Keep the 2 potentiometers at the same resistance value*
+
 ------------------------
 
 ## BOM:
